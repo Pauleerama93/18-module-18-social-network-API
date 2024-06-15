@@ -10,7 +10,7 @@ MongoDB is a popular choice for many social networks due to its speed with large
 - [Usage](#usage)
 - [API Routes](#api-routes)
 - [Walkthrough Video](#walkthrough-video)
-- [Credits]
+- [Credits](#credits)
 - [License](#license)
 
 ## Description
