@@ -72,7 +72,8 @@ POST /api/thoughts/:thoughtId/reactions - Create a reaction to a thought
 DELETE /api/thoughts/:thoughtId/reactions/:reactionId - Delete a reaction to a thought
 
 ## Walkthrough Video
-A walkthrough video demonstrating the functionality of the application can be found here.
+A walkthrough video demonstrating the functionality of the application can be found here:
+https://drive.google.com/file/d/1a0EUmomKsV_j8F0bYsg0x0N4F0uiKDQx/view
 
 ## Credits
 
